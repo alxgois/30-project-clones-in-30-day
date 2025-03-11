@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 **Acesse o projeto**  
-🖥️ [Google Clone - GitHub Pages]([https://SEU_USUARIO.github.io/30-project-clones-in-30-day/1.%20Google/index.html](https://alxgois.github.io/30-project-clones-in-30-day/1.%20Google/index.html))  
+🖥️ [Google Clone - GitHub Pages](https://SEU_USUARIO.github.io/30-project-clones-in-30-day/1.%20Google/index.html](https://alxgois.github.io/30-project-clones-in-30-day/1.%20Google/index.html))  
 
 ---
 
