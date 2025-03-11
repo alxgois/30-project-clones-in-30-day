@@ -8,7 +8,7 @@ Este é um desafio de 30 dias no qual recrio a interface de sites e plataformas 
 - Aprender boas práticas de design e responsividade.  
 
 ## 🏆 Projetos  
-1. Google  
+1. [Google](https://alxgois.github.io/30-project-clones-in-30-day/1.%20Google/index.html)  
 2. Instagram  
 3. Netflix  
 4. Spotify  
